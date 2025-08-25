@@ -24,7 +24,8 @@ print("Merged Dictionary:", result)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="562" height="63" alt="image" src="https://github.com/user-attachments/assets/749e0f21-d423-4fae-953b-f6591faccd0f" />
+
 
 ## Result
 Thus the program has been successfully executed
